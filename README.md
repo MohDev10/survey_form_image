@@ -1,1 +1,1 @@
-image for the survey from project to use it in the personal protfolio project.
+image for the survey form project to use it in the personal protfolio project.
